@@ -1,0 +1,16 @@
+PODS:
+  - TypedSymbols (0.1.0)
+
+DEPENDENCIES:
+  - TypedSymbols (from `../`)
+
+EXTERNAL SOURCES:
+  TypedSymbols:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TypedSymbols: 62475f1013f0a96d6fde9fbadb35dce3de10405c
+
+PODFILE CHECKSUM: 88edb966d5570c5b532a1545577011dcd4e21e5f
+
+COCOAPODS: 1.7.1

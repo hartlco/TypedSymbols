@@ -1,0 +1,6 @@
+framework module Pods_TypedSymbols_Tests {
+  umbrella header "Pods-TypedSymbols_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

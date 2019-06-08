@@ -1,24 +1,36 @@
-//
-//  ViewController.swift
-//  TypedSymbols
-//
-//  Created by hartlco on 06/08/2019.
-//  Copyright (c) 2019 hartlco. All rights reserved.
-//
-
 import UIKit
+import TypedSymbols
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
+    enum Section {
+        case main
+    }
+
+    @IBOutlet private weak var collectionView: UICollectionView!
+
+    private var dataSource: UICollectionViewDiffableDataSource<Section, UIImage>?
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        setupDataSource()
+
+        let snapshot = NSDiffableDataSourceSnapshot<Section, UIImage>()
+        snapshot.appendSections([.main])
+        snapshot.appendItems(Symbol.allCases.compactMap({ symbol in
+            return UIImage(symbol: symbol)
+        }))
+        dataSource?.apply(snapshot)
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
 
+    private func setupDataSource() {
+        dataSource = UICollectionViewDiffableDataSource<Section, UIImage>(collectionView: collectionView, cellProvider: { (collectionView, indexPath, image) -> UICollectionViewCell? in
+            let cell = collectionView.dequeueReusableCell(withReuseIdentifier: ImageCellCollectionViewCell.identifier,
+                                                          for: indexPath) as! ImageCellCollectionViewCell
+            cell.iconImageView.image = image
+            return cell
+        })
+    }
 }
 
