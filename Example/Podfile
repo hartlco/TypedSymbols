@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TypedSymbols_Example' do
+  pod 'TypedSymbols', :path => '../'
+
+  target 'TypedSymbols_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
