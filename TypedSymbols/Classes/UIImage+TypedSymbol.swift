@@ -13,3 +13,11 @@ public extension UIImage {
 }
 
 #endif
+
+import SwiftUI
+
+public extension Image {
+    init(symbol: Symbol) {
+        self.init(systemName: symbol.rawValue)
+    }
+}
