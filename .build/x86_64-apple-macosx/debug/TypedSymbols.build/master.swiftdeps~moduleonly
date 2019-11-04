@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.212.5 clang-1100.0.28.2)"
+options: "bec767ab7272cc639a8b54ce8dba6c01"
+build_time: [1562475315, 593069000]
+inputs:
+  "/Users/martin/Code/TypedSymbols/TypedSymbols/Classes/Symbol.swift": [1559981277, 936872574]
+  "/Users/martin/Code/TypedSymbols/TypedSymbols/Classes/UIImage+TypedSymbol.swift": [1562475311, 628310477]

@@ -15,7 +15,7 @@ final class ViewController: UIViewController {
 
         setupDataSource()
 
-        let snapshot = NSDiffableDataSourceSnapshot<Section, UIImage>()
+        var snapshot = NSDiffableDataSourceSnapshot<Section, UIImage>()
         snapshot.appendSections([.main])
         snapshot.appendItems(Symbol.allCases.compactMap({ symbol in
             return UIImage(symbol: symbol)

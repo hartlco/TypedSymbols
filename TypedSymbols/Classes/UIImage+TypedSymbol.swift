@@ -14,6 +14,8 @@ public extension UIImage {
 
 #endif
 
+#if !os(macOS)
+
 import SwiftUI
 
 public extension Image {
@@ -21,3 +23,5 @@ public extension Image {
         self.init(systemName: symbol.rawValue)
     }
 }
+
+#endif

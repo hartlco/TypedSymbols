@@ -1,0 +1,1919 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Symbol"
+provides-nominal:
+- "12TypedSymbols6SymbolO"
+provides-member:
+- ["12TypedSymbols6SymbolO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "CaseIterable"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "Symbol"
+- "UnicodeScalarType"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s12CaseIterableP", "=="]
+- ["s12CaseIterableP", "AllCases"]
+- ["s12CaseIterableP", "RawValue"]
+- ["s12CaseIterableP", ""]
+- ["s12CaseIterableP", "_Default_AllCases"]
+- ["s12CaseIterableP", "_Default_RawValue"]
+- !private ["s12CaseIterableP", "_findStringSwitchCase"]
+- ["s12CaseIterableP", "_rawHashValue"]
+- ["s12CaseIterableP", "allCases"]
+- ["s12CaseIterableP", "hash"]
+- ["s12CaseIterableP", "hashValue"]
+- ["s12CaseIterableP", "init"]
+- ["s12CaseIterableP", "rawValue"]
+- ["SQ", "=="]
+- ["SQ", "AllCases"]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_AllCases"]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "allCases"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["SH", "=="]
+- ["SH", "AllCases"]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_AllCases"]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "allCases"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- ["SY", "=="]
+- ["SY", "AllCases"]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_AllCases"]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "allCases"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+- ["12TypedSymbols6SymbolO", "=="]
+- ["12TypedSymbols6SymbolO", "AllCases"]
+- ["12TypedSymbols6SymbolO", "RawValue"]
+- ["12TypedSymbols6SymbolO", "_Default_AllCases"]
+- ["12TypedSymbols6SymbolO", "_Default_RawValue"]
+- !private ["12TypedSymbols6SymbolO", "_findStringSwitchCase"]
+- ["12TypedSymbols6SymbolO", "_rawHashValue"]
+- ["12TypedSymbols6SymbolO", "a"]
+- ["12TypedSymbols6SymbolO", "a_circle"]
+- ["12TypedSymbols6SymbolO", "a_circle_fill"]
+- ["12TypedSymbols6SymbolO", "a_square"]
+- ["12TypedSymbols6SymbolO", "a_square_fill"]
+- ["12TypedSymbols6SymbolO", "airplane"]
+- ["12TypedSymbols6SymbolO", "airplayaudio"]
+- ["12TypedSymbols6SymbolO", "airplayvideo"]
+- ["12TypedSymbols6SymbolO", "alarm"]
+- ["12TypedSymbols6SymbolO", "alarm_fill"]
+- ["12TypedSymbols6SymbolO", "allCases"]
+- ["12TypedSymbols6SymbolO", "alt"]
+- ["12TypedSymbols6SymbolO", "ant"]
+- ["12TypedSymbols6SymbolO", "ant_fill"]
+- ["12TypedSymbols6SymbolO", "antenna_radiowaves_left_and_right"]
+- ["12TypedSymbols6SymbolO", "app"]
+- ["12TypedSymbols6SymbolO", "app_badge"]
+- ["12TypedSymbols6SymbolO", "app_badge_fill"]
+- ["12TypedSymbols6SymbolO", "app_fill"]
+- ["12TypedSymbols6SymbolO", "app_gift"]
+- ["12TypedSymbols6SymbolO", "app_gift_fill"]
+- ["12TypedSymbols6SymbolO", "archivebox"]
+- ["12TypedSymbols6SymbolO", "archivebox_fill"]
+- ["12TypedSymbols6SymbolO", "arkit"]
+- ["12TypedSymbols6SymbolO", "arrow_2_circlepath"]
+- ["12TypedSymbols6SymbolO", "arrow_2_circlepath_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_2_circlepath_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_2_squarepath"]
+- ["12TypedSymbols6SymbolO", "arrow_3_trianglepath"]
+- ["12TypedSymbols6SymbolO", "arrow_clockwise"]
+- ["12TypedSymbols6SymbolO", "arrow_clockwise_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_clockwise_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_clockwise_icloud"]
+- ["12TypedSymbols6SymbolO", "arrow_clockwise_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_counterclockwise"]
+- ["12TypedSymbols6SymbolO", "arrow_counterclockwise_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_counterclockwise_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_counterclockwise_icloud"]
+- ["12TypedSymbols6SymbolO", "arrow_counterclockwise_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down"]
+- ["12TypedSymbols6SymbolO", "arrow_down_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_doc"]
+- ["12TypedSymbols6SymbolO", "arrow_down_doc_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left_square"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left_video"]
+- ["12TypedSymbols6SymbolO", "arrow_down_left_video_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_right"]
+- ["12TypedSymbols6SymbolO", "arrow_down_right_and_arrow_up_left"]
+- ["12TypedSymbols6SymbolO", "arrow_down_right_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_down_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_right_square"]
+- ["12TypedSymbols6SymbolO", "arrow_down_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_square"]
+- ["12TypedSymbols6SymbolO", "arrow_down_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_down_to_line"]
+- ["12TypedSymbols6SymbolO", "arrow_down_to_line_alt"]
+- ["12TypedSymbols6SymbolO", "arrow_left"]
+- ["12TypedSymbols6SymbolO", "arrow_left_and_right"]
+- ["12TypedSymbols6SymbolO", "arrow_left_and_right_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_left_and_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_left_and_right_square"]
+- ["12TypedSymbols6SymbolO", "arrow_left_and_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_left_square"]
+- ["12TypedSymbols6SymbolO", "arrow_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_left_to_line"]
+- ["12TypedSymbols6SymbolO", "arrow_left_to_line_alt"]
+- ["12TypedSymbols6SymbolO", "arrow_merge"]
+- ["12TypedSymbols6SymbolO", "arrow_right"]
+- ["12TypedSymbols6SymbolO", "arrow_right_arrow_left"]
+- ["12TypedSymbols6SymbolO", "arrow_right_arrow_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_right_arrow_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_right_arrow_left_square"]
+- ["12TypedSymbols6SymbolO", "arrow_right_arrow_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_right_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_right_square"]
+- ["12TypedSymbols6SymbolO", "arrow_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_right_to_line"]
+- ["12TypedSymbols6SymbolO", "arrow_right_to_line_alt"]
+- ["12TypedSymbols6SymbolO", "arrow_swap"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_down_left"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_down_right"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_left_down"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_left_up"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_right_down"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_right_up"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_up_left"]
+- ["12TypedSymbols6SymbolO", "arrow_turn_up_right"]
+- ["12TypedSymbols6SymbolO", "arrow_up"]
+- ["12TypedSymbols6SymbolO", "arrow_up_and_down"]
+- ["12TypedSymbols6SymbolO", "arrow_up_and_down_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_up_and_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_and_down_square"]
+- ["12TypedSymbols6SymbolO", "arrow_up_and_down_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_arrow_down"]
+- ["12TypedSymbols6SymbolO", "arrow_up_arrow_down_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_up_arrow_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_arrow_down_square"]
+- ["12TypedSymbols6SymbolO", "arrow_up_arrow_down_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_bin"]
+- ["12TypedSymbols6SymbolO", "arrow_up_bin_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_up_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_doc"]
+- ["12TypedSymbols6SymbolO", "arrow_up_doc_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_left"]
+- ["12TypedSymbols6SymbolO", "arrow_up_left_and_arrow_down_right"]
+- ["12TypedSymbols6SymbolO", "arrow_up_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_up_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_left_square"]
+- ["12TypedSymbols6SymbolO", "arrow_up_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_diamond"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_diamond_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_square"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_video"]
+- ["12TypedSymbols6SymbolO", "arrow_up_right_video_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_square"]
+- ["12TypedSymbols6SymbolO", "arrow_up_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_up_to_line"]
+- ["12TypedSymbols6SymbolO", "arrow_up_to_line_alt"]
+- ["12TypedSymbols6SymbolO", "arrow_upright_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_down"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_down_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_down_square"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_down_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_left"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_left_square"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_right"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_right_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_right_square"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_up"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_up_circle"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_up_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_up_square"]
+- ["12TypedSymbols6SymbolO", "arrow_uturn_up_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_left"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_left_2"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_left_2_fill"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_left_fill"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_right"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_right_circle"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrowshape_turn_up_right_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_down"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_down_circle"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_down_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_down_square"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_down_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_left"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_left_circle"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_left_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_left_square"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_right"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_right_circle"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_right_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_right_square"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_up"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_up_circle"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_up_circle_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_up_fill"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_up_square"]
+- ["12TypedSymbols6SymbolO", "arrowtriangle_up_square_fill"]
+- ["12TypedSymbols6SymbolO", "asterisk_circle"]
+- ["12TypedSymbols6SymbolO", "asterisk_circle_fill"]
+- ["12TypedSymbols6SymbolO", "at"]
+- ["12TypedSymbols6SymbolO", "at_badge_minus"]
+- ["12TypedSymbols6SymbolO", "at_badge_plus"]
+- ["12TypedSymbols6SymbolO", "australsign_circle"]
+- ["12TypedSymbols6SymbolO", "australsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "australsign_square"]
+- ["12TypedSymbols6SymbolO", "australsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "b_circle"]
+- ["12TypedSymbols6SymbolO", "b_circle_fill"]
+- ["12TypedSymbols6SymbolO", "b_square"]
+- ["12TypedSymbols6SymbolO", "b_square_fill"]
+- ["12TypedSymbols6SymbolO", "backward"]
+- ["12TypedSymbols6SymbolO", "backward_end"]
+- ["12TypedSymbols6SymbolO", "backward_end_alt"]
+- ["12TypedSymbols6SymbolO", "backward_end_alt_fill"]
+- ["12TypedSymbols6SymbolO", "backward_end_fill"]
+- ["12TypedSymbols6SymbolO", "backward_fill"]
+- ["12TypedSymbols6SymbolO", "badge_plus_radiowaves_right"]
+- ["12TypedSymbols6SymbolO", "bag"]
+- ["12TypedSymbols6SymbolO", "bag_badge_minus"]
+- ["12TypedSymbols6SymbolO", "bag_badge_minus_fill"]
+- ["12TypedSymbols6SymbolO", "bag_badge_plus"]
+- ["12TypedSymbols6SymbolO", "bag_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "bag_fill"]
+- ["12TypedSymbols6SymbolO", "bahtsign_circle"]
+- ["12TypedSymbols6SymbolO", "bahtsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "bahtsign_square"]
+- ["12TypedSymbols6SymbolO", "bahtsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "bandage"]
+- ["12TypedSymbols6SymbolO", "bandage_fill"]
+- ["12TypedSymbols6SymbolO", "barcode"]
+- ["12TypedSymbols6SymbolO", "barcode_viewfinder"]
+- ["12TypedSymbols6SymbolO", "battery_0"]
+- ["12TypedSymbols6SymbolO", "battery_100"]
+- ["12TypedSymbols6SymbolO", "battery_25"]
+- ["12TypedSymbols6SymbolO", "bed_double"]
+- ["12TypedSymbols6SymbolO", "bed_double_fill"]
+- ["12TypedSymbols6SymbolO", "bell"]
+- ["12TypedSymbols6SymbolO", "bell_fill"]
+- ["12TypedSymbols6SymbolO", "bell_slash"]
+- ["12TypedSymbols6SymbolO", "bell_slash_fill"]
+- ["12TypedSymbols6SymbolO", "bin_xmark"]
+- ["12TypedSymbols6SymbolO", "bin_xmark_fill"]
+- ["12TypedSymbols6SymbolO", "bitcoinsign_circle"]
+- ["12TypedSymbols6SymbolO", "bitcoinsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "bitcoinsign_square"]
+- ["12TypedSymbols6SymbolO", "bitcoinsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "bold"]
+- ["12TypedSymbols6SymbolO", "bold_italic_underline"]
+- ["12TypedSymbols6SymbolO", "bold_underline"]
+- ["12TypedSymbols6SymbolO", "bolt"]
+- ["12TypedSymbols6SymbolO", "bolt_fill"]
+- ["12TypedSymbols6SymbolO", "bolt_horizontal"]
+- ["12TypedSymbols6SymbolO", "bolt_horizontal_circle"]
+- ["12TypedSymbols6SymbolO", "bolt_horizontal_circle_fill"]
+- ["12TypedSymbols6SymbolO", "bolt_horizontal_fill"]
+- ["12TypedSymbols6SymbolO", "bolt_horizontal_icloud"]
+- ["12TypedSymbols6SymbolO", "bolt_horizontal_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "bolt_slash"]
+- ["12TypedSymbols6SymbolO", "bolt_slash_fill"]
+- ["12TypedSymbols6SymbolO", "book"]
+- ["12TypedSymbols6SymbolO", "book_fill"]
+- ["12TypedSymbols6SymbolO", "bookmark"]
+- ["12TypedSymbols6SymbolO", "bookmark_fill"]
+- ["12TypedSymbols6SymbolO", "briefcase"]
+- ["12TypedSymbols6SymbolO", "briefcase_fill"]
+- ["12TypedSymbols6SymbolO", "bubble_left"]
+- ["12TypedSymbols6SymbolO", "bubble_left_and_bubble_right"]
+- ["12TypedSymbols6SymbolO", "bubble_left_and_bubble_right_fill"]
+- ["12TypedSymbols6SymbolO", "bubble_left_fill"]
+- ["12TypedSymbols6SymbolO", "bubble_middle_bottom"]
+- ["12TypedSymbols6SymbolO", "bubble_middle_bottom_fill"]
+- ["12TypedSymbols6SymbolO", "bubble_middle_top"]
+- ["12TypedSymbols6SymbolO", "bubble_middle_top_fill"]
+- ["12TypedSymbols6SymbolO", "bubble_right"]
+- ["12TypedSymbols6SymbolO", "bubble_right_fill"]
+- ["12TypedSymbols6SymbolO", "burn"]
+- ["12TypedSymbols6SymbolO", "burst"]
+- ["12TypedSymbols6SymbolO", "burst_fill"]
+- ["12TypedSymbols6SymbolO", "c_circle"]
+- ["12TypedSymbols6SymbolO", "c_circle_fill"]
+- ["12TypedSymbols6SymbolO", "c_square"]
+- ["12TypedSymbols6SymbolO", "c_square_fill"]
+- ["12TypedSymbols6SymbolO", "calendar"]
+- ["12TypedSymbols6SymbolO", "calendar_badge_minus"]
+- ["12TypedSymbols6SymbolO", "calendar_badge_plus"]
+- ["12TypedSymbols6SymbolO", "camera"]
+- ["12TypedSymbols6SymbolO", "camera_fill"]
+- ["12TypedSymbols6SymbolO", "camera_on_rectangle"]
+- ["12TypedSymbols6SymbolO", "camera_on_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "camera_rotate"]
+- ["12TypedSymbols6SymbolO", "camera_rotate_fill"]
+- ["12TypedSymbols6SymbolO", "camera_viewfinder"]
+- ["12TypedSymbols6SymbolO", "capslock"]
+- ["12TypedSymbols6SymbolO", "capslock_fill"]
+- ["12TypedSymbols6SymbolO", "captions_bubble"]
+- ["12TypedSymbols6SymbolO", "captions_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "car_fill"]
+- ["12TypedSymbols6SymbolO", "cart"]
+- ["12TypedSymbols6SymbolO", "cart_badge_minus"]
+- ["12TypedSymbols6SymbolO", "cart_badge_minus_fill"]
+- ["12TypedSymbols6SymbolO", "cart_badge_plus"]
+- ["12TypedSymbols6SymbolO", "cart_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "cart_fill"]
+- ["12TypedSymbols6SymbolO", "cedisign_circle"]
+- ["12TypedSymbols6SymbolO", "cedisign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "cedisign_square"]
+- ["12TypedSymbols6SymbolO", "cedisign_square_fill"]
+- ["12TypedSymbols6SymbolO", "centsign_circle"]
+- ["12TypedSymbols6SymbolO", "centsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "centsign_square"]
+- ["12TypedSymbols6SymbolO", "centsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "chart_bar"]
+- ["12TypedSymbols6SymbolO", "chart_bar_fill"]
+- ["12TypedSymbols6SymbolO", "chart_pie"]
+- ["12TypedSymbols6SymbolO", "chart_pie_fill"]
+- ["12TypedSymbols6SymbolO", "checkmark"]
+- ["12TypedSymbols6SymbolO", "checkmark_circle"]
+- ["12TypedSymbols6SymbolO", "checkmark_circle_fill"]
+- ["12TypedSymbols6SymbolO", "checkmark_rectangle"]
+- ["12TypedSymbols6SymbolO", "checkmark_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "checkmark_seal"]
+- ["12TypedSymbols6SymbolO", "checkmark_seal_fill"]
+- ["12TypedSymbols6SymbolO", "checkmark_square"]
+- ["12TypedSymbols6SymbolO", "checkmark_square_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_compact_down"]
+- ["12TypedSymbols6SymbolO", "chevron_compact_left"]
+- ["12TypedSymbols6SymbolO", "chevron_compact_right"]
+- ["12TypedSymbols6SymbolO", "chevron_compact_up"]
+- ["12TypedSymbols6SymbolO", "chevron_down"]
+- ["12TypedSymbols6SymbolO", "chevron_down_circle"]
+- ["12TypedSymbols6SymbolO", "chevron_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_down_square"]
+- ["12TypedSymbols6SymbolO", "chevron_down_square_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_left"]
+- ["12TypedSymbols6SymbolO", "chevron_left_2"]
+- ["12TypedSymbols6SymbolO", "chevron_left_circle"]
+- ["12TypedSymbols6SymbolO", "chevron_left_circle_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_left_slash_chevron_right"]
+- ["12TypedSymbols6SymbolO", "chevron_left_square"]
+- ["12TypedSymbols6SymbolO", "chevron_left_square_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_right"]
+- ["12TypedSymbols6SymbolO", "chevron_right_2"]
+- ["12TypedSymbols6SymbolO", "chevron_right_circle"]
+- ["12TypedSymbols6SymbolO", "chevron_right_circle_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_right_square"]
+- ["12TypedSymbols6SymbolO", "chevron_right_square_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_up"]
+- ["12TypedSymbols6SymbolO", "chevron_up_chevron_down"]
+- ["12TypedSymbols6SymbolO", "chevron_up_circle"]
+- ["12TypedSymbols6SymbolO", "chevron_up_circle_fill"]
+- ["12TypedSymbols6SymbolO", "chevron_up_square"]
+- ["12TypedSymbols6SymbolO", "chevron_up_square_fill"]
+- ["12TypedSymbols6SymbolO", "circle"]
+- ["12TypedSymbols6SymbolO", "circle_bottomthird_split"]
+- ["12TypedSymbols6SymbolO", "circle_fill"]
+- ["12TypedSymbols6SymbolO", "circle_grid_3x3"]
+- ["12TypedSymbols6SymbolO", "circle_grid_3x3_fill"]
+- ["12TypedSymbols6SymbolO", "circle_grid_hex"]
+- ["12TypedSymbols6SymbolO", "circle_grid_hex_fill"]
+- ["12TypedSymbols6SymbolO", "circle_lefthalf_fill"]
+- ["12TypedSymbols6SymbolO", "circle_righthalf_fill"]
+- ["12TypedSymbols6SymbolO", "clear"]
+- ["12TypedSymbols6SymbolO", "clear_fill"]
+- ["12TypedSymbols6SymbolO", "clock"]
+- ["12TypedSymbols6SymbolO", "clock_fill"]
+- ["12TypedSymbols6SymbolO", "cloud"]
+- ["12TypedSymbols6SymbolO", "cloud_bolt"]
+- ["12TypedSymbols6SymbolO", "cloud_bolt_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_bolt_rain"]
+- ["12TypedSymbols6SymbolO", "cloud_bolt_rain_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_drizzle"]
+- ["12TypedSymbols6SymbolO", "cloud_drizzle_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_fog"]
+- ["12TypedSymbols6SymbolO", "cloud_fog_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_hail"]
+- ["12TypedSymbols6SymbolO", "cloud_hail_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_heavyrain"]
+- ["12TypedSymbols6SymbolO", "cloud_heavyrain_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_moon"]
+- ["12TypedSymbols6SymbolO", "cloud_moon_bolt"]
+- ["12TypedSymbols6SymbolO", "cloud_moon_bolt_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_moon_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_moon_rain"]
+- ["12TypedSymbols6SymbolO", "cloud_moon_rain_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_rain"]
+- ["12TypedSymbols6SymbolO", "cloud_rain_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_sleet"]
+- ["12TypedSymbols6SymbolO", "cloud_sleet_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_snow"]
+- ["12TypedSymbols6SymbolO", "cloud_snow_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_sun"]
+- ["12TypedSymbols6SymbolO", "cloud_sun_bolt"]
+- ["12TypedSymbols6SymbolO", "cloud_sun_bolt_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_sun_fill"]
+- ["12TypedSymbols6SymbolO", "cloud_sun_rain"]
+- ["12TypedSymbols6SymbolO", "cloud_sun_rain_fill"]
+- ["12TypedSymbols6SymbolO", "coloncurrencysign_circle"]
+- ["12TypedSymbols6SymbolO", "coloncurrencysign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "coloncurrencysign_square"]
+- ["12TypedSymbols6SymbolO", "coloncurrencysign_square_fill"]
+- ["12TypedSymbols6SymbolO", "command"]
+- ["12TypedSymbols6SymbolO", "control"]
+- ["12TypedSymbols6SymbolO", "creditcard"]
+- ["12TypedSymbols6SymbolO", "creditcard_fill"]
+- ["12TypedSymbols6SymbolO", "crop"]
+- ["12TypedSymbols6SymbolO", "crop_rotate"]
+- ["12TypedSymbols6SymbolO", "cruzeirosign_circle"]
+- ["12TypedSymbols6SymbolO", "cruzeirosign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "cruzeirosign_square"]
+- ["12TypedSymbols6SymbolO", "cruzeirosign_square_fill"]
+- ["12TypedSymbols6SymbolO", "cube"]
+- ["12TypedSymbols6SymbolO", "cube_box"]
+- ["12TypedSymbols6SymbolO", "cube_box_fill"]
+- ["12TypedSymbols6SymbolO", "cube_fill"]
+- ["12TypedSymbols6SymbolO", "cursor_rays"]
+- ["12TypedSymbols6SymbolO", "d_circle"]
+- ["12TypedSymbols6SymbolO", "d_circle_fill"]
+- ["12TypedSymbols6SymbolO", "d_square"]
+- ["12TypedSymbols6SymbolO", "d_square_fill"]
+- ["12TypedSymbols6SymbolO", "deinit"]
+- ["12TypedSymbols6SymbolO", "delete_left"]
+- ["12TypedSymbols6SymbolO", "delete_left_fill"]
+- ["12TypedSymbols6SymbolO", "delete_right"]
+- ["12TypedSymbols6SymbolO", "delete_right_fill"]
+- ["12TypedSymbols6SymbolO", "desktopcomputer"]
+- ["12TypedSymbols6SymbolO", "dial"]
+- ["12TypedSymbols6SymbolO", "dial_fill"]
+- ["12TypedSymbols6SymbolO", "divide"]
+- ["12TypedSymbols6SymbolO", "divide_circle"]
+- ["12TypedSymbols6SymbolO", "divide_circle_fill"]
+- ["12TypedSymbols6SymbolO", "divide_square"]
+- ["12TypedSymbols6SymbolO", "divide_square_fill"]
+- ["12TypedSymbols6SymbolO", "doc"]
+- ["12TypedSymbols6SymbolO", "doc_append"]
+- ["12TypedSymbols6SymbolO", "doc_fill"]
+- ["12TypedSymbols6SymbolO", "doc_on_clipboard"]
+- ["12TypedSymbols6SymbolO", "doc_on_clipboard_fill"]
+- ["12TypedSymbols6SymbolO", "doc_on_doc"]
+- ["12TypedSymbols6SymbolO", "doc_on_doc_fill"]
+- ["12TypedSymbols6SymbolO", "doc_plaintext"]
+- ["12TypedSymbols6SymbolO", "doc_richtext"]
+- ["12TypedSymbols6SymbolO", "doc_text"]
+- ["12TypedSymbols6SymbolO", "doc_text_fill"]
+- ["12TypedSymbols6SymbolO", "doc_text_magnifyingglass"]
+- ["12TypedSymbols6SymbolO", "doc_text_viewfinder"]
+- ["12TypedSymbols6SymbolO", "dollarsign_circle"]
+- ["12TypedSymbols6SymbolO", "dollarsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "dollarsign_square"]
+- ["12TypedSymbols6SymbolO", "dollarsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "dongsign_circle"]
+- ["12TypedSymbols6SymbolO", "dongsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "dongsign_square"]
+- ["12TypedSymbols6SymbolO", "dongsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "dot_circle"]
+- ["12TypedSymbols6SymbolO", "dot_circle_fill"]
+- ["12TypedSymbols6SymbolO", "dot_radiowaves_left_and_right"]
+- ["12TypedSymbols6SymbolO", "dot_radiowaves_right"]
+- ["12TypedSymbols6SymbolO", "dot_square"]
+- ["12TypedSymbols6SymbolO", "dot_square_fill"]
+- ["12TypedSymbols6SymbolO", "drop_triangle"]
+- ["12TypedSymbols6SymbolO", "drop_triangle_fill"]
+- ["12TypedSymbols6SymbolO", "e_circle"]
+- ["12TypedSymbols6SymbolO", "e_circle_fill"]
+- ["12TypedSymbols6SymbolO", "e_square"]
+- ["12TypedSymbols6SymbolO", "e_square_fill"]
+- ["12TypedSymbols6SymbolO", "ear"]
+- ["12TypedSymbols6SymbolO", "eject"]
+- ["12TypedSymbols6SymbolO", "eject_fill"]
+- ["12TypedSymbols6SymbolO", "ellipses_bubble"]
+- ["12TypedSymbols6SymbolO", "ellipses_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "ellipsis"]
+- ["12TypedSymbols6SymbolO", "ellipsis_circle"]
+- ["12TypedSymbols6SymbolO", "ellipsis_circle_fill"]
+- ["12TypedSymbols6SymbolO", "envelope"]
+- ["12TypedSymbols6SymbolO", "envelope_badge"]
+- ["12TypedSymbols6SymbolO", "envelope_badge_fill"]
+- ["12TypedSymbols6SymbolO", "envelope_circle"]
+- ["12TypedSymbols6SymbolO", "envelope_circle_fill"]
+- ["12TypedSymbols6SymbolO", "envelope_fill"]
+- ["12TypedSymbols6SymbolO", "envelope_open"]
+- ["12TypedSymbols6SymbolO", "envelope_open_fill"]
+- ["12TypedSymbols6SymbolO", "equal"]
+- ["12TypedSymbols6SymbolO", "equal_circle"]
+- ["12TypedSymbols6SymbolO", "equal_circle_fill"]
+- ["12TypedSymbols6SymbolO", "equal_square"]
+- ["12TypedSymbols6SymbolO", "equal_square_fill"]
+- ["12TypedSymbols6SymbolO", "escape"]
+- ["12TypedSymbols6SymbolO", "eurosign_circle"]
+- ["12TypedSymbols6SymbolO", "eurosign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "eurosign_square"]
+- ["12TypedSymbols6SymbolO", "eurosign_square_fill"]
+- ["12TypedSymbols6SymbolO", "exclamationmark"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_bubble"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_circle"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_circle_fill"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_icloud"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_octagon"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_octagon_fill"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_square"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_square_fill"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_triangle"]
+- ["12TypedSymbols6SymbolO", "exclamationmark_triangle_fill"]
+- ["12TypedSymbols6SymbolO", "eye"]
+- ["12TypedSymbols6SymbolO", "eye_fill"]
+- ["12TypedSymbols6SymbolO", "eye_slash"]
+- ["12TypedSymbols6SymbolO", "eye_slash_fill"]
+- ["12TypedSymbols6SymbolO", "eyedropper"]
+- ["12TypedSymbols6SymbolO", "eyedropper_full"]
+- ["12TypedSymbols6SymbolO", "eyedropper_halffull"]
+- ["12TypedSymbols6SymbolO", "eyeglasses"]
+- ["12TypedSymbols6SymbolO", "f_circle"]
+- ["12TypedSymbols6SymbolO", "f_circle_fill"]
+- ["12TypedSymbols6SymbolO", "f_cursive"]
+- ["12TypedSymbols6SymbolO", "f_square"]
+- ["12TypedSymbols6SymbolO", "f_square_fill"]
+- ["12TypedSymbols6SymbolO", "faceid"]
+- ["12TypedSymbols6SymbolO", "film"]
+- ["12TypedSymbols6SymbolO", "film_fill"]
+- ["12TypedSymbols6SymbolO", "flag"]
+- ["12TypedSymbols6SymbolO", "flag_fill"]
+- ["12TypedSymbols6SymbolO", "flag_slash"]
+- ["12TypedSymbols6SymbolO", "flag_slash_fill"]
+- ["12TypedSymbols6SymbolO", "flame"]
+- ["12TypedSymbols6SymbolO", "flame_fill"]
+- ["12TypedSymbols6SymbolO", "florinsign_circle"]
+- ["12TypedSymbols6SymbolO", "florinsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "florinsign_square"]
+- ["12TypedSymbols6SymbolO", "florinsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "flowchart"]
+- ["12TypedSymbols6SymbolO", "flowchart_fill"]
+- ["12TypedSymbols6SymbolO", "folder"]
+- ["12TypedSymbols6SymbolO", "folder_badge_minus"]
+- ["12TypedSymbols6SymbolO", "folder_badge_minus_fill"]
+- ["12TypedSymbols6SymbolO", "folder_badge_person_crop"]
+- ["12TypedSymbols6SymbolO", "folder_badge_person_crop_fill"]
+- ["12TypedSymbols6SymbolO", "folder_badge_plus"]
+- ["12TypedSymbols6SymbolO", "folder_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "folder_circle"]
+- ["12TypedSymbols6SymbolO", "folder_circle_fill"]
+- ["12TypedSymbols6SymbolO", "folder_fill"]
+- ["12TypedSymbols6SymbolO", "forward"]
+- ["12TypedSymbols6SymbolO", "forward_end"]
+- ["12TypedSymbols6SymbolO", "forward_end_alt"]
+- ["12TypedSymbols6SymbolO", "forward_end_alt_fill"]
+- ["12TypedSymbols6SymbolO", "forward_end_fill"]
+- ["12TypedSymbols6SymbolO", "forward_fill"]
+- ["12TypedSymbols6SymbolO", "francsign_circle"]
+- ["12TypedSymbols6SymbolO", "francsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "francsign_square"]
+- ["12TypedSymbols6SymbolO", "francsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "function"]
+- ["12TypedSymbols6SymbolO", "fx"]
+- ["12TypedSymbols6SymbolO", "g_circle"]
+- ["12TypedSymbols6SymbolO", "g_circle_fill"]
+- ["12TypedSymbols6SymbolO", "g_square"]
+- ["12TypedSymbols6SymbolO", "g_square_fill"]
+- ["12TypedSymbols6SymbolO", "gamecontroller"]
+- ["12TypedSymbols6SymbolO", "gamecontroller_fill"]
+- ["12TypedSymbols6SymbolO", "gauge"]
+- ["12TypedSymbols6SymbolO", "gauge_badge_minus"]
+- ["12TypedSymbols6SymbolO", "gauge_badge_plus"]
+- ["12TypedSymbols6SymbolO", "gear"]
+- ["12TypedSymbols6SymbolO", "gift"]
+- ["12TypedSymbols6SymbolO", "gift_fill"]
+- ["12TypedSymbols6SymbolO", "globe"]
+- ["12TypedSymbols6SymbolO", "gobackward"]
+- ["12TypedSymbols6SymbolO", "gobackward_10"]
+- ["12TypedSymbols6SymbolO", "gobackward_10_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_15"]
+- ["12TypedSymbols6SymbolO", "gobackward_15_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_30"]
+- ["12TypedSymbols6SymbolO", "gobackward_30_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_45"]
+- ["12TypedSymbols6SymbolO", "gobackward_45_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_60"]
+- ["12TypedSymbols6SymbolO", "gobackward_60_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_75"]
+- ["12TypedSymbols6SymbolO", "gobackward_75_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_90"]
+- ["12TypedSymbols6SymbolO", "gobackward_90_ar"]
+- ["12TypedSymbols6SymbolO", "gobackward_minus"]
+- ["12TypedSymbols6SymbolO", "goforward"]
+- ["12TypedSymbols6SymbolO", "goforward_10"]
+- ["12TypedSymbols6SymbolO", "goforward_10_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_15"]
+- ["12TypedSymbols6SymbolO", "goforward_15_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_30"]
+- ["12TypedSymbols6SymbolO", "goforward_30_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_45"]
+- ["12TypedSymbols6SymbolO", "goforward_45_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_60"]
+- ["12TypedSymbols6SymbolO", "goforward_60_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_75"]
+- ["12TypedSymbols6SymbolO", "goforward_75_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_90"]
+- ["12TypedSymbols6SymbolO", "goforward_90_ar"]
+- ["12TypedSymbols6SymbolO", "goforward_plus"]
+- ["12TypedSymbols6SymbolO", "greaterthan"]
+- ["12TypedSymbols6SymbolO", "greaterthan_circle"]
+- ["12TypedSymbols6SymbolO", "greaterthan_circle_fill"]
+- ["12TypedSymbols6SymbolO", "greaterthan_square"]
+- ["12TypedSymbols6SymbolO", "greaterthan_square_fill"]
+- ["12TypedSymbols6SymbolO", "grid"]
+- ["12TypedSymbols6SymbolO", "grid_circle"]
+- ["12TypedSymbols6SymbolO", "grid_circle_fill"]
+- ["12TypedSymbols6SymbolO", "guaranisign_circle"]
+- ["12TypedSymbols6SymbolO", "guaranisign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "guaranisign_square"]
+- ["12TypedSymbols6SymbolO", "guaranisign_square_fill"]
+- ["12TypedSymbols6SymbolO", "guitars"]
+- ["12TypedSymbols6SymbolO", "h_circle"]
+- ["12TypedSymbols6SymbolO", "h_circle_fill"]
+- ["12TypedSymbols6SymbolO", "h_square"]
+- ["12TypedSymbols6SymbolO", "h_square_fill"]
+- ["12TypedSymbols6SymbolO", "hammer"]
+- ["12TypedSymbols6SymbolO", "hammer_fill"]
+- ["12TypedSymbols6SymbolO", "hand_draw"]
+- ["12TypedSymbols6SymbolO", "hand_draw_fill"]
+- ["12TypedSymbols6SymbolO", "hand_point_left"]
+- ["12TypedSymbols6SymbolO", "hand_point_left_fill"]
+- ["12TypedSymbols6SymbolO", "hand_point_right"]
+- ["12TypedSymbols6SymbolO", "hand_point_right_fill"]
+- ["12TypedSymbols6SymbolO", "hand_raised"]
+- ["12TypedSymbols6SymbolO", "hand_raised_fill"]
+- ["12TypedSymbols6SymbolO", "hand_raised_slash"]
+- ["12TypedSymbols6SymbolO", "hand_raised_slash_fill"]
+- ["12TypedSymbols6SymbolO", "hand_thumbsdown"]
+- ["12TypedSymbols6SymbolO", "hand_thumbsdown_fill"]
+- ["12TypedSymbols6SymbolO", "hand_thumbsup"]
+- ["12TypedSymbols6SymbolO", "hand_thumbsup_fill"]
+- ["12TypedSymbols6SymbolO", "hare"]
+- ["12TypedSymbols6SymbolO", "hare_fill"]
+- ["12TypedSymbols6SymbolO", "hash"]
+- ["12TypedSymbols6SymbolO", "hashValue"]
+- ["12TypedSymbols6SymbolO", "headphones"]
+- ["12TypedSymbols6SymbolO", "heart"]
+- ["12TypedSymbols6SymbolO", "heart_circle"]
+- ["12TypedSymbols6SymbolO", "heart_circle_fill"]
+- ["12TypedSymbols6SymbolO", "heart_fill"]
+- ["12TypedSymbols6SymbolO", "heart_slash"]
+- ["12TypedSymbols6SymbolO", "heart_slash_circle"]
+- ["12TypedSymbols6SymbolO", "heart_slash_circle_fill"]
+- ["12TypedSymbols6SymbolO", "heart_slash_fill"]
+- ["12TypedSymbols6SymbolO", "helm"]
+- ["12TypedSymbols6SymbolO", "hourglass"]
+- ["12TypedSymbols6SymbolO", "hourglass_bottomhalf_fill"]
+- ["12TypedSymbols6SymbolO", "hourglass_tophalf_fill"]
+- ["12TypedSymbols6SymbolO", "house"]
+- ["12TypedSymbols6SymbolO", "house_fill"]
+- ["12TypedSymbols6SymbolO", "hryvniasign_circle"]
+- ["12TypedSymbols6SymbolO", "hryvniasign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "hryvniasign_square"]
+- ["12TypedSymbols6SymbolO", "hryvniasign_square_fill"]
+- ["12TypedSymbols6SymbolO", "hurricane"]
+- ["12TypedSymbols6SymbolO", "i_circle"]
+- ["12TypedSymbols6SymbolO", "i_circle_fill"]
+- ["12TypedSymbols6SymbolO", "i_square"]
+- ["12TypedSymbols6SymbolO", "i_square_fill"]
+- ["12TypedSymbols6SymbolO", "icloud"]
+- ["12TypedSymbols6SymbolO", "icloud_and_arrow_down"]
+- ["12TypedSymbols6SymbolO", "icloud_and_arrow_down_fill"]
+- ["12TypedSymbols6SymbolO", "icloud_and_arrow_up"]
+- ["12TypedSymbols6SymbolO", "icloud_and_arrow_up_fill"]
+- ["12TypedSymbols6SymbolO", "icloud_circle"]
+- ["12TypedSymbols6SymbolO", "icloud_circle_fill"]
+- ["12TypedSymbols6SymbolO", "icloud_fill"]
+- ["12TypedSymbols6SymbolO", "icloud_slash"]
+- ["12TypedSymbols6SymbolO", "icloud_slash_fill"]
+- ["12TypedSymbols6SymbolO", "indianrupeesign_circle"]
+- ["12TypedSymbols6SymbolO", "indianrupeesign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "indianrupeesign_square"]
+- ["12TypedSymbols6SymbolO", "indianrupeesign_square_fill"]
+- ["12TypedSymbols6SymbolO", "info"]
+- ["12TypedSymbols6SymbolO", "info_circle"]
+- ["12TypedSymbols6SymbolO", "info_circle_fill"]
+- ["12TypedSymbols6SymbolO", "init"]
+- ["12TypedSymbols6SymbolO", "italic"]
+- ["12TypedSymbols6SymbolO", "j_circle"]
+- ["12TypedSymbols6SymbolO", "j_circle_fill"]
+- ["12TypedSymbols6SymbolO", "j_square"]
+- ["12TypedSymbols6SymbolO", "j_square_fill"]
+- ["12TypedSymbols6SymbolO", "k_circle"]
+- ["12TypedSymbols6SymbolO", "k_circle_fill"]
+- ["12TypedSymbols6SymbolO", "k_square"]
+- ["12TypedSymbols6SymbolO", "k_square_fill"]
+- ["12TypedSymbols6SymbolO", "keyboard"]
+- ["12TypedSymbols6SymbolO", "keyboard_chevron_compact_down"]
+- ["12TypedSymbols6SymbolO", "kipsign_circle"]
+- ["12TypedSymbols6SymbolO", "kipsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "kipsign_square"]
+- ["12TypedSymbols6SymbolO", "kipsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "l_circle"]
+- ["12TypedSymbols6SymbolO", "l_circle_fill"]
+- ["12TypedSymbols6SymbolO", "l_square"]
+- ["12TypedSymbols6SymbolO", "l_square_fill"]
+- ["12TypedSymbols6SymbolO", "larisign_circle"]
+- ["12TypedSymbols6SymbolO", "larisign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "larisign_square"]
+- ["12TypedSymbols6SymbolO", "larisign_square_fill"]
+- ["12TypedSymbols6SymbolO", "lasso"]
+- ["12TypedSymbols6SymbolO", "leaf_arrow_circlepath"]
+- ["12TypedSymbols6SymbolO", "lessthan"]
+- ["12TypedSymbols6SymbolO", "lessthan_circle"]
+- ["12TypedSymbols6SymbolO", "lessthan_circle_fill"]
+- ["12TypedSymbols6SymbolO", "lessthan_square"]
+- ["12TypedSymbols6SymbolO", "lessthan_square_fill"]
+- ["12TypedSymbols6SymbolO", "light_max"]
+- ["12TypedSymbols6SymbolO", "light_min"]
+- ["12TypedSymbols6SymbolO", "line_horizontal_3"]
+- ["12TypedSymbols6SymbolO", "line_horizontal_3_decrease"]
+- ["12TypedSymbols6SymbolO", "line_horizontal_3_decrease_circle"]
+- ["12TypedSymbols6SymbolO", "line_horizontal_3_decrease_circle_fill"]
+- ["12TypedSymbols6SymbolO", "link"]
+- ["12TypedSymbols6SymbolO", "link_circle"]
+- ["12TypedSymbols6SymbolO", "link_circle_fill"]
+- ["12TypedSymbols6SymbolO", "link_icloud"]
+- ["12TypedSymbols6SymbolO", "link_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "lirasign_circle"]
+- ["12TypedSymbols6SymbolO", "lirasign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "lirasign_square"]
+- ["12TypedSymbols6SymbolO", "lirasign_square_fill"]
+- ["12TypedSymbols6SymbolO", "list_bullet"]
+- ["12TypedSymbols6SymbolO", "list_bullet_below_rectangle"]
+- ["12TypedSymbols6SymbolO", "list_bullet_indent"]
+- ["12TypedSymbols6SymbolO", "list_dash"]
+- ["12TypedSymbols6SymbolO", "list_number"]
+- ["12TypedSymbols6SymbolO", "list_number_rtl"]
+- ["12TypedSymbols6SymbolO", "livephoto"]
+- ["12TypedSymbols6SymbolO", "livephoto_play"]
+- ["12TypedSymbols6SymbolO", "livephoto_slash"]
+- ["12TypedSymbols6SymbolO", "location"]
+- ["12TypedSymbols6SymbolO", "location_circle"]
+- ["12TypedSymbols6SymbolO", "location_circle_fill"]
+- ["12TypedSymbols6SymbolO", "location_fill"]
+- ["12TypedSymbols6SymbolO", "location_north"]
+- ["12TypedSymbols6SymbolO", "location_north_fill"]
+- ["12TypedSymbols6SymbolO", "location_north_line"]
+- ["12TypedSymbols6SymbolO", "location_north_line_fill"]
+- ["12TypedSymbols6SymbolO", "location_slash"]
+- ["12TypedSymbols6SymbolO", "location_slash_fill"]
+- ["12TypedSymbols6SymbolO", "lock"]
+- ["12TypedSymbols6SymbolO", "lock_circle"]
+- ["12TypedSymbols6SymbolO", "lock_circle_fill"]
+- ["12TypedSymbols6SymbolO", "lock_fill"]
+- ["12TypedSymbols6SymbolO", "lock_icloud"]
+- ["12TypedSymbols6SymbolO", "lock_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "lock_open"]
+- ["12TypedSymbols6SymbolO", "lock_open_fill"]
+- ["12TypedSymbols6SymbolO", "lock_rotation"]
+- ["12TypedSymbols6SymbolO", "lock_rotation_open"]
+- ["12TypedSymbols6SymbolO", "lock_slash"]
+- ["12TypedSymbols6SymbolO", "lock_slash_fill"]
+- ["12TypedSymbols6SymbolO", "m_circle"]
+- ["12TypedSymbols6SymbolO", "m_circle_fill"]
+- ["12TypedSymbols6SymbolO", "m_square"]
+- ["12TypedSymbols6SymbolO", "m_square_fill"]
+- ["12TypedSymbols6SymbolO", "macwindow"]
+- ["12TypedSymbols6SymbolO", "magnifyingglass"]
+- ["12TypedSymbols6SymbolO", "magnifyingglass_1"]
+- ["12TypedSymbols6SymbolO", "magnifyingglass_circle"]
+- ["12TypedSymbols6SymbolO", "magnifyingglass_circle_fill"]
+- ["12TypedSymbols6SymbolO", "manatsign_circle"]
+- ["12TypedSymbols6SymbolO", "manatsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "manatsign_square"]
+- ["12TypedSymbols6SymbolO", "manatsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "map"]
+- ["12TypedSymbols6SymbolO", "map_fill"]
+- ["12TypedSymbols6SymbolO", "mappin"]
+- ["12TypedSymbols6SymbolO", "mappin_and_ellipse"]
+- ["12TypedSymbols6SymbolO", "mappin_slash"]
+- ["12TypedSymbols6SymbolO", "memories"]
+- ["12TypedSymbols6SymbolO", "memories_badge_minus"]
+- ["12TypedSymbols6SymbolO", "memories_badge_plus"]
+- ["12TypedSymbols6SymbolO", "metronome"]
+- ["12TypedSymbols6SymbolO", "mic"]
+- ["12TypedSymbols6SymbolO", "mic_circle"]
+- ["12TypedSymbols6SymbolO", "mic_circle_fill"]
+- ["12TypedSymbols6SymbolO", "mic_fill"]
+- ["12TypedSymbols6SymbolO", "mic_slash"]
+- ["12TypedSymbols6SymbolO", "mic_slash_fill"]
+- ["12TypedSymbols6SymbolO", "millsign_circle"]
+- ["12TypedSymbols6SymbolO", "millsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "millsign_square"]
+- ["12TypedSymbols6SymbolO", "millsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "minus"]
+- ["12TypedSymbols6SymbolO", "minus_circle"]
+- ["12TypedSymbols6SymbolO", "minus_circle_fill"]
+- ["12TypedSymbols6SymbolO", "minus_magnifyingglass"]
+- ["12TypedSymbols6SymbolO", "minus_rectangle"]
+- ["12TypedSymbols6SymbolO", "minus_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "minus_slash_plus"]
+- ["12TypedSymbols6SymbolO", "minus_square"]
+- ["12TypedSymbols6SymbolO", "minus_square_fill"]
+- ["12TypedSymbols6SymbolO", "moon"]
+- ["12TypedSymbols6SymbolO", "moon_circle"]
+- ["12TypedSymbols6SymbolO", "moon_circle_fill"]
+- ["12TypedSymbols6SymbolO", "moon_fill"]
+- ["12TypedSymbols6SymbolO", "moon_stars"]
+- ["12TypedSymbols6SymbolO", "moon_stars_fill"]
+- ["12TypedSymbols6SymbolO", "moon_zzz"]
+- ["12TypedSymbols6SymbolO", "moon_zzz_fill"]
+- ["12TypedSymbols6SymbolO", "multiply"]
+- ["12TypedSymbols6SymbolO", "multiply_circle"]
+- ["12TypedSymbols6SymbolO", "multiply_circle_fill"]
+- ["12TypedSymbols6SymbolO", "multiply_square"]
+- ["12TypedSymbols6SymbolO", "multiply_square_fill"]
+- ["12TypedSymbols6SymbolO", "music_house"]
+- ["12TypedSymbols6SymbolO", "music_house_fill"]
+- ["12TypedSymbols6SymbolO", "music_mic"]
+- ["12TypedSymbols6SymbolO", "music_note"]
+- ["12TypedSymbols6SymbolO", "music_note_list"]
+- ["12TypedSymbols6SymbolO", "n_circle"]
+- ["12TypedSymbols6SymbolO", "n_circle_fill"]
+- ["12TypedSymbols6SymbolO", "n_square"]
+- ["12TypedSymbols6SymbolO", "n_square_fill"]
+- ["12TypedSymbols6SymbolO", "nairasign_circle"]
+- ["12TypedSymbols6SymbolO", "nairasign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "nairasign_square"]
+- ["12TypedSymbols6SymbolO", "nairasign_square_fill"]
+- ["12TypedSymbols6SymbolO", "nosign"]
+- ["12TypedSymbols6SymbolO", "number"]
+- ["12TypedSymbols6SymbolO", "number_circle"]
+- ["12TypedSymbols6SymbolO", "number_circle_fill"]
+- ["12TypedSymbols6SymbolO", "number_square"]
+- ["12TypedSymbols6SymbolO", "number_square_fill"]
+- ["12TypedSymbols6SymbolO", "o_circle"]
+- ["12TypedSymbols6SymbolO", "o_circle_fill"]
+- ["12TypedSymbols6SymbolO", "o_square"]
+- ["12TypedSymbols6SymbolO", "o_square_fill"]
+- ["12TypedSymbols6SymbolO", "option"]
+- ["12TypedSymbols6SymbolO", "p_circle"]
+- ["12TypedSymbols6SymbolO", "p_circle_fill"]
+- ["12TypedSymbols6SymbolO", "p_square"]
+- ["12TypedSymbols6SymbolO", "p_square_fill"]
+- ["12TypedSymbols6SymbolO", "paintbrush"]
+- ["12TypedSymbols6SymbolO", "paintbrush_fill"]
+- ["12TypedSymbols6SymbolO", "pano"]
+- ["12TypedSymbols6SymbolO", "pano_fill"]
+- ["12TypedSymbols6SymbolO", "paperclip"]
+- ["12TypedSymbols6SymbolO", "paperplane"]
+- ["12TypedSymbols6SymbolO", "paperplane_fill"]
+- ["12TypedSymbols6SymbolO", "paragraph"]
+- ["12TypedSymbols6SymbolO", "pause"]
+- ["12TypedSymbols6SymbolO", "pause_circle"]
+- ["12TypedSymbols6SymbolO", "pause_circle_fill"]
+- ["12TypedSymbols6SymbolO", "pause_fill"]
+- ["12TypedSymbols6SymbolO", "pause_rectangle"]
+- ["12TypedSymbols6SymbolO", "pause_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "pencil"]
+- ["12TypedSymbols6SymbolO", "pencil_and_ellipsis_rectangle"]
+- ["12TypedSymbols6SymbolO", "pencil_and_outline"]
+- ["12TypedSymbols6SymbolO", "pencil_circle"]
+- ["12TypedSymbols6SymbolO", "pencil_circle_fill"]
+- ["12TypedSymbols6SymbolO", "pencil_slash"]
+- ["12TypedSymbols6SymbolO", "pencil_tip"]
+- ["12TypedSymbols6SymbolO", "pencil_tip_crop_circle"]
+- ["12TypedSymbols6SymbolO", "pencil_tip_crop_circle_badge_minus"]
+- ["12TypedSymbols6SymbolO", "pencil_tip_crop_circle_badge_plus"]
+- ["12TypedSymbols6SymbolO", "percent"]
+- ["12TypedSymbols6SymbolO", "person"]
+- ["12TypedSymbols6SymbolO", "person_2_square_stack"]
+- ["12TypedSymbols6SymbolO", "person_2_square_stack_fill"]
+- ["12TypedSymbols6SymbolO", "person_and_person"]
+- ["12TypedSymbols6SymbolO", "person_and_person_fill"]
+- ["12TypedSymbols6SymbolO", "person_badge_minus"]
+- ["12TypedSymbols6SymbolO", "person_badge_minus_fill"]
+- ["12TypedSymbols6SymbolO", "person_badge_plus"]
+- ["12TypedSymbols6SymbolO", "person_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "person_circle"]
+- ["12TypedSymbols6SymbolO", "person_circle_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_checkmark"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_checkmark_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_exclam"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_exclam_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_minus"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_minus_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_plus"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_xmark"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_badge_xmark_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_circle_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_rectangle"]
+- ["12TypedSymbols6SymbolO", "person_crop_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "person_crop_square"]
+- ["12TypedSymbols6SymbolO", "person_crop_square_fill"]
+- ["12TypedSymbols6SymbolO", "person_fill"]
+- ["12TypedSymbols6SymbolO", "person_icloud"]
+- ["12TypedSymbols6SymbolO", "person_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "personalhotspot"]
+- ["12TypedSymbols6SymbolO", "perspective"]
+- ["12TypedSymbols6SymbolO", "pesetasign_circle"]
+- ["12TypedSymbols6SymbolO", "pesetasign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "pesetasign_square"]
+- ["12TypedSymbols6SymbolO", "pesetasign_square_fill"]
+- ["12TypedSymbols6SymbolO", "pesosign_circle"]
+- ["12TypedSymbols6SymbolO", "pesosign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "pesosign_square"]
+- ["12TypedSymbols6SymbolO", "pesosign_square_fill"]
+- ["12TypedSymbols6SymbolO", "phone"]
+- ["12TypedSymbols6SymbolO", "phone_arrow_down_left"]
+- ["12TypedSymbols6SymbolO", "phone_arrow_down_left_fill"]
+- ["12TypedSymbols6SymbolO", "phone_arrow_right"]
+- ["12TypedSymbols6SymbolO", "phone_arrow_right_fill"]
+- ["12TypedSymbols6SymbolO", "phone_arrow_up_right"]
+- ["12TypedSymbols6SymbolO", "phone_arrow_up_right_fill"]
+- ["12TypedSymbols6SymbolO", "phone_badge_plus"]
+- ["12TypedSymbols6SymbolO", "phone_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "phone_circle"]
+- ["12TypedSymbols6SymbolO", "phone_circle_fill"]
+- ["12TypedSymbols6SymbolO", "phone_down"]
+- ["12TypedSymbols6SymbolO", "phone_down_circle"]
+- ["12TypedSymbols6SymbolO", "phone_down_circle_fill"]
+- ["12TypedSymbols6SymbolO", "phone_down_fill"]
+- ["12TypedSymbols6SymbolO", "phone_fill"]
+- ["12TypedSymbols6SymbolO", "photo"]
+- ["12TypedSymbols6SymbolO", "photo_fill"]
+- ["12TypedSymbols6SymbolO", "photo_on_rectangle"]
+- ["12TypedSymbols6SymbolO", "photo_on_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "pin"]
+- ["12TypedSymbols6SymbolO", "pin_fill"]
+- ["12TypedSymbols6SymbolO", "pin_slash"]
+- ["12TypedSymbols6SymbolO", "pin_slash_fill"]
+- ["12TypedSymbols6SymbolO", "play"]
+- ["12TypedSymbols6SymbolO", "play_circle"]
+- ["12TypedSymbols6SymbolO", "play_circle_fill"]
+- ["12TypedSymbols6SymbolO", "play_fill"]
+- ["12TypedSymbols6SymbolO", "play_rectangle"]
+- ["12TypedSymbols6SymbolO", "play_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "playpause"]
+- ["12TypedSymbols6SymbolO", "playpause_fill"]
+- ["12TypedSymbols6SymbolO", "plus"]
+- ["12TypedSymbols6SymbolO", "plus_app"]
+- ["12TypedSymbols6SymbolO", "plus_app_fill"]
+- ["12TypedSymbols6SymbolO", "plus_bubble"]
+- ["12TypedSymbols6SymbolO", "plus_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "plus_circle"]
+- ["12TypedSymbols6SymbolO", "plus_circle_fill"]
+- ["12TypedSymbols6SymbolO", "plus_magnifyingglass"]
+- ["12TypedSymbols6SymbolO", "plus_rectangle"]
+- ["12TypedSymbols6SymbolO", "plus_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "plus_rectangle_on_rectangle"]
+- ["12TypedSymbols6SymbolO", "plus_rectangle_on_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "plus_slash_minus"]
+- ["12TypedSymbols6SymbolO", "plus_square"]
+- ["12TypedSymbols6SymbolO", "plus_square_fill"]
+- ["12TypedSymbols6SymbolO", "plus_square_on_square"]
+- ["12TypedSymbols6SymbolO", "plus_square_on_square_fill"]
+- ["12TypedSymbols6SymbolO", "plusminus"]
+- ["12TypedSymbols6SymbolO", "plusminus_circle"]
+- ["12TypedSymbols6SymbolO", "plusminus_circle_fill"]
+- ["12TypedSymbols6SymbolO", "power"]
+- ["12TypedSymbols6SymbolO", "printer"]
+- ["12TypedSymbols6SymbolO", "printer_fill"]
+- ["12TypedSymbols6SymbolO", "projective"]
+- ["12TypedSymbols6SymbolO", "purchased"]
+- ["12TypedSymbols6SymbolO", "purchased_circle"]
+- ["12TypedSymbols6SymbolO", "purchased_circle_fill"]
+- ["12TypedSymbols6SymbolO", "q_circle"]
+- ["12TypedSymbols6SymbolO", "q_circle_fill"]
+- ["12TypedSymbols6SymbolO", "q_square"]
+- ["12TypedSymbols6SymbolO", "q_square_fill"]
+- ["12TypedSymbols6SymbolO", "qrcode"]
+- ["12TypedSymbols6SymbolO", "qrcode_viewfinder"]
+- ["12TypedSymbols6SymbolO", "questionmark"]
+- ["12TypedSymbols6SymbolO", "questionmark_circle"]
+- ["12TypedSymbols6SymbolO", "questionmark_circle_fill"]
+- ["12TypedSymbols6SymbolO", "questionmark_diamond"]
+- ["12TypedSymbols6SymbolO", "questionmark_diamond_fill"]
+- ["12TypedSymbols6SymbolO", "questionmark_square"]
+- ["12TypedSymbols6SymbolO", "questionmark_square_fill"]
+- ["12TypedSymbols6SymbolO", "questionmark_video"]
+- ["12TypedSymbols6SymbolO", "questionmark_video_fill"]
+- ["12TypedSymbols6SymbolO", "questionmark_video_fill_rtl"]
+- ["12TypedSymbols6SymbolO", "questionmark_video_rtl"]
+- ["12TypedSymbols6SymbolO", "quote_bubble"]
+- ["12TypedSymbols6SymbolO", "quote_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "r_circle"]
+- ["12TypedSymbols6SymbolO", "r_circle_fill"]
+- ["12TypedSymbols6SymbolO", "r_square"]
+- ["12TypedSymbols6SymbolO", "r_square_fill"]
+- ["12TypedSymbols6SymbolO", "radiowaves_left"]
+- ["12TypedSymbols6SymbolO", "radiowaves_right"]
+- ["12TypedSymbols6SymbolO", "rawValue"]
+- ["12TypedSymbols6SymbolO", "rays"]
+- ["12TypedSymbols6SymbolO", "realtimetext"]
+- ["12TypedSymbols6SymbolO", "recordingtape"]
+- ["12TypedSymbols6SymbolO", "rectangle"]
+- ["12TypedSymbols6SymbolO", "rectangle_3_offgrid"]
+- ["12TypedSymbols6SymbolO", "rectangle_3_offgrid_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_and_arrow_up_right_and_arrow_down_left"]
+- ["12TypedSymbols6SymbolO", "rectangle_and_arrow_up_right_and_arrow_down_left_slash"]
+- ["12TypedSymbols6SymbolO", "rectangle_and_paperclip"]
+- ["12TypedSymbols6SymbolO", "rectangle_badge_checkmark"]
+- ["12TypedSymbols6SymbolO", "rectangle_badge_checkmark_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_badge_xmark"]
+- ["12TypedSymbols6SymbolO", "rectangle_badge_xmark_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_compress_vertical"]
+- ["12TypedSymbols6SymbolO", "rectangle_dock"]
+- ["12TypedSymbols6SymbolO", "rectangle_expand_vertical"]
+- ["12TypedSymbols6SymbolO", "rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_grid_1x2"]
+- ["12TypedSymbols6SymbolO", "rectangle_grid_1x2_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_grid_2x2"]
+- ["12TypedSymbols6SymbolO", "rectangle_grid_2x2_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_grid_3x2"]
+- ["12TypedSymbols6SymbolO", "rectangle_grid_3x2_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_on_rectangle"]
+- ["12TypedSymbols6SymbolO", "rectangle_on_rectangle_angled"]
+- ["12TypedSymbols6SymbolO", "rectangle_on_rectangle_angled_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_on_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_split_3x1"]
+- ["12TypedSymbols6SymbolO", "rectangle_split_3x1_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_split_3x3"]
+- ["12TypedSymbols6SymbolO", "rectangle_split_3x3_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_badge_minus"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_badge_minus_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_badge_plus"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_fill"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_person_crop"]
+- ["12TypedSymbols6SymbolO", "rectangle_stack_person_crop_fill"]
+- ["12TypedSymbols6SymbolO", "repeat"]
+- ["12TypedSymbols6SymbolO", "repeat_1"]
+- ["12TypedSymbols6SymbolO", "return"]
+- ["12TypedSymbols6SymbolO", "rhombus"]
+- ["12TypedSymbols6SymbolO", "rhombus_fill"]
+- ["12TypedSymbols6SymbolO", "ring_circle"]
+- ["12TypedSymbols6SymbolO", "ring_circle_fill"]
+- ["12TypedSymbols6SymbolO", "rosette"]
+- ["12TypedSymbols6SymbolO", "rotate_left"]
+- ["12TypedSymbols6SymbolO", "rotate_left_fill"]
+- ["12TypedSymbols6SymbolO", "rotate_right"]
+- ["12TypedSymbols6SymbolO", "rotate_right_fill"]
+- ["12TypedSymbols6SymbolO", "rublesign_circle"]
+- ["12TypedSymbols6SymbolO", "rublesign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "rublesign_square"]
+- ["12TypedSymbols6SymbolO", "rublesign_square_fill"]
+- ["12TypedSymbols6SymbolO", "rupeesign_circle"]
+- ["12TypedSymbols6SymbolO", "rupeesign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "rupeesign_square"]
+- ["12TypedSymbols6SymbolO", "rupeesign_square_fill"]
+- ["12TypedSymbols6SymbolO", "s_circle"]
+- ["12TypedSymbols6SymbolO", "s_circle_fill"]
+- ["12TypedSymbols6SymbolO", "s_square"]
+- ["12TypedSymbols6SymbolO", "s_square_fill"]
+- ["12TypedSymbols6SymbolO", "safari"]
+- ["12TypedSymbols6SymbolO", "safari_fill"]
+- ["12TypedSymbols6SymbolO", "scissors"]
+- ["12TypedSymbols6SymbolO", "scope"]
+- ["12TypedSymbols6SymbolO", "scribble"]
+- ["12TypedSymbols6SymbolO", "selection_pin_in_out"]
+- ["12TypedSymbols6SymbolO", "sheqelsign_circle"]
+- ["12TypedSymbols6SymbolO", "sheqelsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "sheqelsign_square"]
+- ["12TypedSymbols6SymbolO", "sheqelsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "shield"]
+- ["12TypedSymbols6SymbolO", "shield_fill"]
+- ["12TypedSymbols6SymbolO", "shield_lefthalf_fill"]
+- ["12TypedSymbols6SymbolO", "shift"]
+- ["12TypedSymbols6SymbolO", "shift_fill"]
+- ["12TypedSymbols6SymbolO", "shuffle"]
+- ["12TypedSymbols6SymbolO", "sidebar_left"]
+- ["12TypedSymbols6SymbolO", "sidebar_right"]
+- ["12TypedSymbols6SymbolO", "signature"]
+- ["12TypedSymbols6SymbolO", "skew"]
+- ["12TypedSymbols6SymbolO", "slash_circle"]
+- ["12TypedSymbols6SymbolO", "slash_circle_fill"]
+- ["12TypedSymbols6SymbolO", "slider_horizontal_3"]
+- ["12TypedSymbols6SymbolO", "slider_horizontal_below_rectangle"]
+- ["12TypedSymbols6SymbolO", "slowmo"]
+- ["12TypedSymbols6SymbolO", "smiley"]
+- ["12TypedSymbols6SymbolO", "smiley_fill"]
+- ["12TypedSymbols6SymbolO", "smoke"]
+- ["12TypedSymbols6SymbolO", "smoke_fill"]
+- ["12TypedSymbols6SymbolO", "snow"]
+- ["12TypedSymbols6SymbolO", "sparkles"]
+- ["12TypedSymbols6SymbolO", "speedometer"]
+- ["12TypedSymbols6SymbolO", "square"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_down"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_down_fill"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_down_on_square"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_down_on_square_fill"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_up"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_up_fill"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_up_on_square"]
+- ["12TypedSymbols6SymbolO", "square_and_arrow_up_on_square_fill"]
+- ["12TypedSymbols6SymbolO", "square_and_line_vertical_and_square"]
+- ["12TypedSymbols6SymbolO", "square_and_line_vertical_and_square_fill"]
+- ["12TypedSymbols6SymbolO", "square_and_pencil"]
+- ["12TypedSymbols6SymbolO", "square_fill"]
+- ["12TypedSymbols6SymbolO", "square_fill_and_line_vertical_and_square"]
+- ["12TypedSymbols6SymbolO", "square_fill_and_line_vertical_square_fill"]
+- ["12TypedSymbols6SymbolO", "square_grid_2x2"]
+- ["12TypedSymbols6SymbolO", "square_grid_2x2_fill"]
+- ["12TypedSymbols6SymbolO", "square_grid_3x2"]
+- ["12TypedSymbols6SymbolO", "square_grid_3x2_fill"]
+- ["12TypedSymbols6SymbolO", "square_grid_4x3_fill"]
+- ["12TypedSymbols6SymbolO", "square_lefthalf_fill"]
+- ["12TypedSymbols6SymbolO", "square_on_circle"]
+- ["12TypedSymbols6SymbolO", "square_on_circle_fill"]
+- ["12TypedSymbols6SymbolO", "square_on_square"]
+- ["12TypedSymbols6SymbolO", "square_on_square_fill"]
+- ["12TypedSymbols6SymbolO", "square_righthalf_fill"]
+- ["12TypedSymbols6SymbolO", "square_split_1x2"]
+- ["12TypedSymbols6SymbolO", "square_split_1x2_fill"]
+- ["12TypedSymbols6SymbolO", "square_split_2x1"]
+- ["12TypedSymbols6SymbolO", "square_split_2x1_fill"]
+- ["12TypedSymbols6SymbolO", "square_split_2x2"]
+- ["12TypedSymbols6SymbolO", "square_split_2x2_fill"]
+- ["12TypedSymbols6SymbolO", "square_stack"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_down_dottedline"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_down_right"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_down_right_fill"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_up"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_up_fill"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_up_slash"]
+- ["12TypedSymbols6SymbolO", "square_stack_3d_up_slash_fill"]
+- ["12TypedSymbols6SymbolO", "square_stack_fill"]
+- ["12TypedSymbols6SymbolO", "squares_below_rectangle"]
+- ["12TypedSymbols6SymbolO", "star"]
+- ["12TypedSymbols6SymbolO", "star_circle"]
+- ["12TypedSymbols6SymbolO", "star_circle_fill"]
+- ["12TypedSymbols6SymbolO", "star_fill"]
+- ["12TypedSymbols6SymbolO", "star_lefthalf_fill"]
+- ["12TypedSymbols6SymbolO", "star_slash"]
+- ["12TypedSymbols6SymbolO", "star_slash_fill"]
+- ["12TypedSymbols6SymbolO", "staroflife"]
+- ["12TypedSymbols6SymbolO", "staroflife_fill"]
+- ["12TypedSymbols6SymbolO", "sterlingsign_circle"]
+- ["12TypedSymbols6SymbolO", "sterlingsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "sterlingsign_square"]
+- ["12TypedSymbols6SymbolO", "sterlingsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "stop"]
+- ["12TypedSymbols6SymbolO", "stop_fill"]
+- ["12TypedSymbols6SymbolO", "stopwatch"]
+- ["12TypedSymbols6SymbolO", "stopwatch_fill"]
+- ["12TypedSymbols6SymbolO", "strikethrough"]
+- ["12TypedSymbols6SymbolO", "suit_club"]
+- ["12TypedSymbols6SymbolO", "suit_club_fill"]
+- ["12TypedSymbols6SymbolO", "suit_diamond"]
+- ["12TypedSymbols6SymbolO", "suit_diamond_fill"]
+- ["12TypedSymbols6SymbolO", "suit_heart"]
+- ["12TypedSymbols6SymbolO", "suit_heart_fill"]
+- ["12TypedSymbols6SymbolO", "suit_spade"]
+- ["12TypedSymbols6SymbolO", "suit_spade_fill"]
+- ["12TypedSymbols6SymbolO", "sum"]
+- ["12TypedSymbols6SymbolO", "sun_dust"]
+- ["12TypedSymbols6SymbolO", "sun_dust_fill"]
+- ["12TypedSymbols6SymbolO", "sun_haze"]
+- ["12TypedSymbols6SymbolO", "sun_haze_fill"]
+- ["12TypedSymbols6SymbolO", "sun_max"]
+- ["12TypedSymbols6SymbolO", "sun_max_fill"]
+- ["12TypedSymbols6SymbolO", "sun_min"]
+- ["12TypedSymbols6SymbolO", "sun_min_fill"]
+- ["12TypedSymbols6SymbolO", "sunrise"]
+- ["12TypedSymbols6SymbolO", "sunrise_fill"]
+- ["12TypedSymbols6SymbolO", "sunset"]
+- ["12TypedSymbols6SymbolO", "sunset_fill"]
+- ["12TypedSymbols6SymbolO", "t_bubble"]
+- ["12TypedSymbols6SymbolO", "t_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "t_circle"]
+- ["12TypedSymbols6SymbolO", "t_circle_fill"]
+- ["12TypedSymbols6SymbolO", "t_square"]
+- ["12TypedSymbols6SymbolO", "t_square_fill"]
+- ["12TypedSymbols6SymbolO", "table"]
+- ["12TypedSymbols6SymbolO", "table_badge_more"]
+- ["12TypedSymbols6SymbolO", "table_badge_more_fill"]
+- ["12TypedSymbols6SymbolO", "table_fill"]
+- ["12TypedSymbols6SymbolO", "tag"]
+- ["12TypedSymbols6SymbolO", "tag_fill"]
+- ["12TypedSymbols6SymbolO", "teletype"]
+- ["12TypedSymbols6SymbolO", "tengesign_circle"]
+- ["12TypedSymbols6SymbolO", "tengesign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "tengesign_square"]
+- ["12TypedSymbols6SymbolO", "tengesign_square_fill"]
+- ["12TypedSymbols6SymbolO", "text_aligncenter"]
+- ["12TypedSymbols6SymbolO", "text_alignleft"]
+- ["12TypedSymbols6SymbolO", "text_alignright"]
+- ["12TypedSymbols6SymbolO", "text_append"]
+- ["12TypedSymbols6SymbolO", "text_badge_checkmark"]
+- ["12TypedSymbols6SymbolO", "text_badge_minus"]
+- ["12TypedSymbols6SymbolO", "text_badge_plus"]
+- ["12TypedSymbols6SymbolO", "text_badge_star"]
+- ["12TypedSymbols6SymbolO", "text_badge_xmark"]
+- ["12TypedSymbols6SymbolO", "text_bubble"]
+- ["12TypedSymbols6SymbolO", "text_bubble_fill"]
+- ["12TypedSymbols6SymbolO", "text_chevron_left"]
+- ["12TypedSymbols6SymbolO", "text_chevron_right"]
+- ["12TypedSymbols6SymbolO", "text_cursor"]
+- ["12TypedSymbols6SymbolO", "text_insert"]
+- ["12TypedSymbols6SymbolO", "text_justify"]
+- ["12TypedSymbols6SymbolO", "text_justifyleft"]
+- ["12TypedSymbols6SymbolO", "text_justifyright"]
+- ["12TypedSymbols6SymbolO", "text_quote"]
+- ["12TypedSymbols6SymbolO", "textbox"]
+- ["12TypedSymbols6SymbolO", "textformat"]
+- ["12TypedSymbols6SymbolO", "textformat_123"]
+- ["12TypedSymbols6SymbolO", "textformat_abc"]
+- ["12TypedSymbols6SymbolO", "textformat_abc_dottedunderline"]
+- ["12TypedSymbols6SymbolO", "textformat_alt"]
+- ["12TypedSymbols6SymbolO", "textformat_size"]
+- ["12TypedSymbols6SymbolO", "textformat_subscript"]
+- ["12TypedSymbols6SymbolO", "textformat_superscript"]
+- ["12TypedSymbols6SymbolO", "thermometer"]
+- ["12TypedSymbols6SymbolO", "thermometer_snowflake"]
+- ["12TypedSymbols6SymbolO", "thermometer_sun"]
+- ["12TypedSymbols6SymbolO", "timelapse"]
+- ["12TypedSymbols6SymbolO", "timer"]
+- ["12TypedSymbols6SymbolO", "tornado"]
+- ["12TypedSymbols6SymbolO", "tortoise"]
+- ["12TypedSymbols6SymbolO", "tortoise_fill"]
+- ["12TypedSymbols6SymbolO", "trash"]
+- ["12TypedSymbols6SymbolO", "trash_circle"]
+- ["12TypedSymbols6SymbolO", "trash_circle_fill"]
+- ["12TypedSymbols6SymbolO", "trash_fill"]
+- ["12TypedSymbols6SymbolO", "trash_slash"]
+- ["12TypedSymbols6SymbolO", "trash_slash_fill"]
+- ["12TypedSymbols6SymbolO", "tray"]
+- ["12TypedSymbols6SymbolO", "tray_2"]
+- ["12TypedSymbols6SymbolO", "tray_2_fill"]
+- ["12TypedSymbols6SymbolO", "tray_and_arrow_down"]
+- ["12TypedSymbols6SymbolO", "tray_and_arrow_down_fill"]
+- ["12TypedSymbols6SymbolO", "tray_and_arrow_up"]
+- ["12TypedSymbols6SymbolO", "tray_and_arrow_up_fill"]
+- ["12TypedSymbols6SymbolO", "tray_fill"]
+- ["12TypedSymbols6SymbolO", "tray_full"]
+- ["12TypedSymbols6SymbolO", "tray_full_fill"]
+- ["12TypedSymbols6SymbolO", "triangle"]
+- ["12TypedSymbols6SymbolO", "triangle_fill"]
+- ["12TypedSymbols6SymbolO", "triangle_lefthalf_fill"]
+- ["12TypedSymbols6SymbolO", "triangle_righthalf_fill"]
+- ["12TypedSymbols6SymbolO", "tropicalstorm"]
+- ["12TypedSymbols6SymbolO", "tugriksign_circle"]
+- ["12TypedSymbols6SymbolO", "tugriksign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "tugriksign_square"]
+- ["12TypedSymbols6SymbolO", "tugriksign_square_fill"]
+- ["12TypedSymbols6SymbolO", "tuningfork"]
+- ["12TypedSymbols6SymbolO", "turkishlirasign_circle"]
+- ["12TypedSymbols6SymbolO", "turkishlirasign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "turkishlirasign_square"]
+- ["12TypedSymbols6SymbolO", "turkishlirasign_square_fill"]
+- ["12TypedSymbols6SymbolO", "tv"]
+- ["12TypedSymbols6SymbolO", "tv_circle"]
+- ["12TypedSymbols6SymbolO", "tv_circle_fill"]
+- ["12TypedSymbols6SymbolO", "tv_fill"]
+- ["12TypedSymbols6SymbolO", "tv_music_note"]
+- ["12TypedSymbols6SymbolO", "tv_music_note_fill"]
+- ["12TypedSymbols6SymbolO", "u_circle"]
+- ["12TypedSymbols6SymbolO", "u_circle_fill"]
+- ["12TypedSymbols6SymbolO", "u_square"]
+- ["12TypedSymbols6SymbolO", "u_square_fill"]
+- ["12TypedSymbols6SymbolO", "uiwindow_split_2x1"]
+- ["12TypedSymbols6SymbolO", "umbrella"]
+- ["12TypedSymbols6SymbolO", "umbrella_fill"]
+- ["12TypedSymbols6SymbolO", "underline"]
+- ["12TypedSymbols6SymbolO", "v_circle"]
+- ["12TypedSymbols6SymbolO", "v_circle_fill"]
+- ["12TypedSymbols6SymbolO", "v_square"]
+- ["12TypedSymbols6SymbolO", "v_square_fill"]
+- ["12TypedSymbols6SymbolO", "video"]
+- ["12TypedSymbols6SymbolO", "video_badge_plus"]
+- ["12TypedSymbols6SymbolO", "video_badge_plus_fill"]
+- ["12TypedSymbols6SymbolO", "video_circle"]
+- ["12TypedSymbols6SymbolO", "video_circle_fill"]
+- ["12TypedSymbols6SymbolO", "video_fill"]
+- ["12TypedSymbols6SymbolO", "video_slash"]
+- ["12TypedSymbols6SymbolO", "video_slash_fill"]
+- ["12TypedSymbols6SymbolO", "view_2d"]
+- ["12TypedSymbols6SymbolO", "view_3d"]
+- ["12TypedSymbols6SymbolO", "viewfinder"]
+- ["12TypedSymbols6SymbolO", "viewfinder_circle"]
+- ["12TypedSymbols6SymbolO", "viewfinder_circle_fill"]
+- ["12TypedSymbols6SymbolO", "volume"]
+- ["12TypedSymbols6SymbolO", "volume_1"]
+- ["12TypedSymbols6SymbolO", "volume_1_fill"]
+- ["12TypedSymbols6SymbolO", "volume_2"]
+- ["12TypedSymbols6SymbolO", "volume_2_fill"]
+- ["12TypedSymbols6SymbolO", "volume_3"]
+- ["12TypedSymbols6SymbolO", "volume_3_fill"]
+- ["12TypedSymbols6SymbolO", "volume_fill"]
+- ["12TypedSymbols6SymbolO", "volume_slash"]
+- ["12TypedSymbols6SymbolO", "volume_slash_fill"]
+- ["12TypedSymbols6SymbolO", "volume_slash_fill_rtl"]
+- ["12TypedSymbols6SymbolO", "volume_slash_rtl"]
+- ["12TypedSymbols6SymbolO", "volume_zzz"]
+- ["12TypedSymbols6SymbolO", "volume_zzz_fill"]
+- ["12TypedSymbols6SymbolO", "w_circle"]
+- ["12TypedSymbols6SymbolO", "w_circle_fill"]
+- ["12TypedSymbols6SymbolO", "w_square"]
+- ["12TypedSymbols6SymbolO", "w_square_fill"]
+- ["12TypedSymbols6SymbolO", "wand_and_rays"]
+- ["12TypedSymbols6SymbolO", "wand_and_rays_inverse"]
+- ["12TypedSymbols6SymbolO", "wand_and_stars"]
+- ["12TypedSymbols6SymbolO", "wand_and_stars_inverse"]
+- ["12TypedSymbols6SymbolO", "waveform"]
+- ["12TypedSymbols6SymbolO", "waveform_path"]
+- ["12TypedSymbols6SymbolO", "waveform_path_badge_minus"]
+- ["12TypedSymbols6SymbolO", "waveform_path_badge_plus"]
+- ["12TypedSymbols6SymbolO", "waveform_path_ecg"]
+- ["12TypedSymbols6SymbolO", "wifi"]
+- ["12TypedSymbols6SymbolO", "wifi_exclamationmark"]
+- ["12TypedSymbols6SymbolO", "wifi_slash"]
+- ["12TypedSymbols6SymbolO", "wind"]
+- ["12TypedSymbols6SymbolO", "wind_snow"]
+- ["12TypedSymbols6SymbolO", "wonsign_circle"]
+- ["12TypedSymbols6SymbolO", "wonsign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "wonsign_square"]
+- ["12TypedSymbols6SymbolO", "wonsign_square_fill"]
+- ["12TypedSymbols6SymbolO", "wrench"]
+- ["12TypedSymbols6SymbolO", "wrench_fill"]
+- ["12TypedSymbols6SymbolO", "x_circle"]
+- ["12TypedSymbols6SymbolO", "x_circle_fill"]
+- ["12TypedSymbols6SymbolO", "x_square"]
+- ["12TypedSymbols6SymbolO", "x_square_fill"]
+- ["12TypedSymbols6SymbolO", "x_squareroot"]
+- ["12TypedSymbols6SymbolO", "xmark"]
+- ["12TypedSymbols6SymbolO", "xmark_circle"]
+- ["12TypedSymbols6SymbolO", "xmark_circle_fill"]
+- ["12TypedSymbols6SymbolO", "xmark_icloud"]
+- ["12TypedSymbols6SymbolO", "xmark_icloud_fill"]
+- ["12TypedSymbols6SymbolO", "xmark_octagon"]
+- ["12TypedSymbols6SymbolO", "xmark_octagon_fill"]
+- ["12TypedSymbols6SymbolO", "xmark_rectangle"]
+- ["12TypedSymbols6SymbolO", "xmark_rectangle_fill"]
+- ["12TypedSymbols6SymbolO", "xmark_seal"]
+- ["12TypedSymbols6SymbolO", "xmark_seal_fill"]
+- ["12TypedSymbols6SymbolO", "xmark_square"]
+- ["12TypedSymbols6SymbolO", "xmark_square_fill"]
+- ["12TypedSymbols6SymbolO", "y_circle"]
+- ["12TypedSymbols6SymbolO", "y_circle_fill"]
+- ["12TypedSymbols6SymbolO", "y_square"]
+- ["12TypedSymbols6SymbolO", "y_square_fill"]
+- ["12TypedSymbols6SymbolO", "yensign_circle"]
+- ["12TypedSymbols6SymbolO", "yensign_circle_fill"]
+- ["12TypedSymbols6SymbolO", "yensign_square"]
+- ["12TypedSymbols6SymbolO", "yensign_square_fill"]
+- ["12TypedSymbols6SymbolO", "z_circle"]
+- ["12TypedSymbols6SymbolO", "z_circle_fill"]
+- ["12TypedSymbols6SymbolO", "z_square"]
+- ["12TypedSymbols6SymbolO", "z_square_fill"]
+- ["12TypedSymbols6SymbolO", "zzz"]
+depends-nominal:
+- "s12CaseIterableP"
+- "SQ"
+- "SH"
+- "SY"
+- "12TypedSymbols6SymbolO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-macos.swiftinterface"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/XPC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/IOKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Combine.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_timeval32.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_timeval64.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ucontext64.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/netinet6/in6.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/alloca.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/if_media.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/fasttrap_isa.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/fasttrap_isa.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/sdt_isa.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/sdt_isa.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/quota.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/unpcb.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/netdb.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/timeb.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/stdlib.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_stdlib.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/glob.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_timespec.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/OSAtomic.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/sync.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_sync.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_o_sync.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_o_dsync.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/malloc/malloc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/malloc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/malloc/_malloc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/proc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ipc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/rpc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/rpc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/rpc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/filedesc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/exc.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread/pthread.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread/sched.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ucred.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/OSAtomicDeprecated.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/OSSpinLockDeprecated.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_ctermid.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/uuid/uuid.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/gethostuuid.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/vcmd.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/kmod.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/bsm/audit_record.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/unistd.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/unistd.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pwd.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_interface.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/trace.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/resource.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/rbtree.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/message.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/locale.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_locale.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_xlocale.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_purgable.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_posix_vdisable.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/file.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/clonefile.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/profile.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/profile.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/copyfile.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/utsname.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/time.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/time.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_time.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_time.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/utime.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_os_inline.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/pipe.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_ctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_ctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/wctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_wctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_wctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/__wctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/__wctype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/runetype.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/semaphore.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/semaphore.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/semaphore.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/os/base.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/readpassphrase.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/thread_state.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/thread_state.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/route.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/OSAtomicQueue.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/queue.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/time_value.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_page_size.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_setsize.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_def.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/if.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/conf.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_offsetof.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/buf.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/msgbuf.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/mbuf.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/sbuf.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/fp_reg.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mig.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/string.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_string.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/secure/_string.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_symbol_aliasing.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/syslog.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/syslog.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/msg.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/fmtmsg.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/mach_debug.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/search.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/fnmatch.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/thread_switch.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/math.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/tgmath.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/kauth.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/port_obj.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_sigaltstack.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/os/lock.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/lock.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Block.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/clock.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/task.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_task.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/disk.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/signal.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/signal.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/signal.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/signal.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/AvailabilityInternal.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_timeval.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/acl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/if_dl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/dyld_kernel.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/util.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/syscall.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ncurses_dll.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/poll.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/poll.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_null.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/kern_control.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread/pthread_impl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/unctrl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ioctl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/sysctl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/fcntl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/fcntl.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/_param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/_param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/vm_param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/vm_param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_param.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/vmparam.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/vmparam.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ndbm.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/sem.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/posix_sem.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_nl_item.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/shm.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/posix_shm.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ioccom.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ttycom.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/bsm/libbsm.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/vm.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_vm.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/boolean.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/boolean.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/boolean.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/endian.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/endian.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_endian.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/mman.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/dlfcn.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libgen.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/netinet/in.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/domain.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/sys_domain.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/shared_region.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_region.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/exception.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/exception.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/exception.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/gmon.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/secure/_common.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/kern_return.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/kern_return.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/kern_return.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/un.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread/spawn.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/spawn.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/spawn.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/proc_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/ipc_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/thread_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/page_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/zone_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/hash_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/task_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/vm_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/lockgroup_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/processor_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/processor_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/processor_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/host_info.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/langinfo.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_langinfo.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/aio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/aio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/stdio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/stdio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_stdio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_stdio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/secure/_stdio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/sockio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/filio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/cpio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/uio.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/errno.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/errno.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_zero.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_map.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/bootstrap.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/netinet/tcp.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/setjmp.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/utmp.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/grp.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/wordexp.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_char.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/wchar.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_wchar.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/tar.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/if_var.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/resourcevar.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/signalvar.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/socketvar.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/ndr.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/i386/OSByteOrder.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/OSByteOrder.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/i386/_OSByteOrder.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/libkern/_OSByteOrder.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/byte_order.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/architecture/byte_order.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/user.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/dir.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_clr.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_behavior.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/error.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_error.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/processor.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/err.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/hfs/hfs_unistr.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/attr.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/xattr.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_statistics.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/times.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/MacTypes.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/std_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/device/device_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/if_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach_debug/mach_debug_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/clock_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/kernel_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/nl_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/vm_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/vm_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/exception_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_voucher_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/memory_object_types.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/inttypes.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_inttypes.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/curses.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_attributes.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/cdefs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/statvfs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xattr_flags.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/eflags.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/strings.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/secure/_strings.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/paths.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread_spis.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/TargetConditionals.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_syscalls.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/termios.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/termios.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/pthread/qos.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/qos.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ConditionalMacros.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/AssertMacros.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/AvailabilityMacros.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_traps.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ifaddrs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mig_errors.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/_structs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/_structs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/limits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/limits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/limits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/_limits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/_limits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/syslimits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sysexits.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ttydefaults.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/appleapiopts.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/thread_special_ports.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/task_special_ports.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/host_special_ports.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/i386/thread_status.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/thread_status.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/thread_status.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_int32_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_int32_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_uint32_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ino64_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_int64_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_int64_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_uint64_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_int16_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_int16_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_uint16_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_int8_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_int8_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_uint8_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_filesec_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_iovec_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_id_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fsobj_id_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_gid_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_pid_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fsid_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_uid_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_guid_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_uuid_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_cond_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_once_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_mode_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_time_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_rune_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ct_rune_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_wctype_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_mbstate_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_size_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_blksize_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_rsize_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ssize_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ptrdiff_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_off_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_clock_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_rwlock_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_nlink_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_socklen_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ino_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_errno_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_wchar_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_in_addr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_caddr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_intptr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_uintptr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_attr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_condattr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_rwlockattr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_mutexattr_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_useconds_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_suseconds_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_wctrans_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_sigset_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_blkcnt_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fsblkcnt_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fsfilcnt_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_wint_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_mach_port_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_in_port_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_dev_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_intmax_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_types/_uintmax_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_mutex_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_key_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_pthread/_pthread_key_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_sa_family_t.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/hfs/hfs_format.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/float.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/stat.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/dkstat.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/thread_act.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/acct.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/select.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_select.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/task_inspect.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/machine/sdt.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/sdt.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/sdt.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/socket.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/arpa/inet.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_set.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/lock_set.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_seek_set.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/processor_set.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_isset.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/wait.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/bsm/audit.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ulimit.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_init.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_inherit.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_s_ifmt.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/dirent.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/dirent.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/event.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_int.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/stdint.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/mount.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/hfs/hfs_mount.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/reboot.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/host_reboot.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/vm_prot.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/getopt.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_u_short.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/port.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/device/device_port.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_port.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/netport.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_va_list.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/mach_host.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/kdebug_signpost.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/i386/_mcontext.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/machine/_mcontext.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ucontext.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_ucontext.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/ev.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/net/net_kev.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/clock_priv.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/host_priv.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/fenv.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/utfconv.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/iconv.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/ftw.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/regex.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/_regex.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_regex.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/complex.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/utmpx.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/lctx.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/policy.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/sync_policy.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/thread_policy.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/task_policy.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/notify.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/host_notify.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/clock_reply.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_types/_fd_copy.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/monetary.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xlocale/_monetary.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Availability.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/os/availability.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/_posix_availability.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/mach/host_security.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/sys/tty.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "61e7bbb48f80f9acce5b27c2443b9362"
